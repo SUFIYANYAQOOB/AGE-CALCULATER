@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 320px;
+    background-color: aquamarine;
+    align-items: center;
+    margin-left: 500px;
+    margin-top: 220px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+#dob{
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+button{
+    width: 110px;
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+}
+#OUTPUT{
+    font-family: sans-serif;
+    padding-top: 20px;
+}
